@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jyo!  
 ---
 
-**Data Science | Machine Learning | AI Enthusiast**
+**Data Science | Machine Learning | AI Enthusiast**.
 
 ---
 
