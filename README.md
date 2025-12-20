@@ -70,4 +70,4 @@ I'm always open to collaboration, learning opportunities, or interesting discuss
 ---
 
 ### ⭐ Thanks for visiting!  
-Feel free to explore my repositories, leave feedback, or connect with me. I’m excited to share my data science journey with the world!  
+Feel free to explore my repositories, leave feedback, or connect with me.
