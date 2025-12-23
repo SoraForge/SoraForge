@@ -28,7 +28,7 @@ I am continuously learning, experimenting, and contributing to projects in the s
 **ML / DL:**  
 - Scikit-learn, TensorFlow, Keras, PyTorch  
 
-**Data Analysis & Viz:**  
+**Data Analysis & Visualisation:**  
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 
 **Tools:**  
