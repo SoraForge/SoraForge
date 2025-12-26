@@ -5,8 +5,7 @@
 
 ---
 
-Welcome to my GitHub! I’m passionate about exploring data, building machine-learning models, and creating intelligent solutions that solve real-world problems.  
-I am continuously learning, experimenting, and contributing to projects in the space of **Data Science, AI, and Software Development**.
+Data enthusiast with a strong interest in machine learning and AI. I enjoy building intelligent, data-driven solutions and continuously improving my skills through hands-on projects in Data Science and Software Development.
 
 ---
 
