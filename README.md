@@ -31,7 +31,7 @@ Data enthusiast with a strong interest in machine learning and AI. I enjoy build
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 
 **Tools:**  
-- Jupyter Notebook, Google Colab  
+- Jupyter Notebook, Google Collab  
 - Git & GitHub  
 - VS Code  
 
